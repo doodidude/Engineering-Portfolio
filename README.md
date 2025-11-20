@@ -40,7 +40,7 @@ These projects demonstrate a progression from discrete analog components to comp
     * **Objective:** Designed a "Divide-by-5" serial processor and synthesized it to the FreePDK45 Standard Cell Library.
     * **Key Tech:** Yosys, Standard Cell Libraries, Automated Test Vectors.
 
-* **[Fundamental Digital Logic](./Digital-Design-RTL/Digital-Logic-Design)**
+* **[Fundamental Digital Logic](./Digital-Design-RTL/System-Verilog-Basics)**
     * **Objective:** Implementation of Ripple Carry Adders and Binary Counters using SystemVerilog and Logic.ly.
 
 ### 2. Embedded Systems & Robotics
