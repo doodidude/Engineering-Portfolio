@@ -16,4 +16,4 @@ This project involved a comprehensive hardware, electrical, and software upgrade
 - **AI-Driven Monitoring:** Integrated an AI system to analyze the video stream from the printer for real-time print failure detection.
 - **Reliability Enhancements:** Utilized open-source plug-ins to further enhance the printer's operational reliability and safety protocols.
 
-[Printables Page][https://www.printables.com/@Hadi_1043282]
+[Printables Page](https://www.printables.com/@Hadi_1043282)
