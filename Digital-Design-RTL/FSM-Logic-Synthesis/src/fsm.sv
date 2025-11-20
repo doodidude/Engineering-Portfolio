@@ -43,7 +43,7 @@ module fsm(
     end
 
     // Output logic
-    assign accept = (state == S0); 
+    assign accept = (state == S0);  
     // your code here
 
 endmodule
